@@ -8,7 +8,7 @@ Topics:
 * Passing props to components rendered by the Router
 
 ## Instructions
-
+.
 * [ ] **Fork** this repository, then clone your fork.
 * [ ] **NOTE** You have 2 servers that you will be running here so read these instructions carefully.
 * [ ] **In the root of this directory**: Run `npm install` to download dependencies.
